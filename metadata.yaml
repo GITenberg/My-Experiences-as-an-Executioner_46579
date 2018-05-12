@@ -1,4 +1,5 @@
 _repo: My-Experiences-as-an-Executioner_46579
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -6,16 +7,16 @@ contributor:
       gutenberg_agent_id: '43862'
       url: http://www.gutenberg.org/2009/agents/43862
 covers:
-- cover_type: archival
-  image_path: 46579/46579-h/images/title.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Berry, James
     gutenberg_agent_id: '43861'
     url: http://www.gutenberg.org/2009/agents/43861
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46579#My-Experiences-as-an-Executioner
 gutenberg_issued: '2014-08-13'
 gutenberg_type: Text
 identifiers:
